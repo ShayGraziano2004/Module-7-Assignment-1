@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>LoanServlet</servlet-name>
+    <servlet-class>com.example.servlets.LoanServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>LoanServlet</servlet-name>
+    <url-pattern>/LoanServlet</url-pattern>
+</servlet-mapping>
